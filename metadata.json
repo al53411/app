@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Administrasi Guru (SIM-GURU)",
+  "description": "Aplikasi Sistem Administrasi Guru interaktif untuk pengelolaan data siswa, absensi, leger nilai, generator RPP Kurikulum Merdeka, serta cetak PDF & Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
